@@ -1,0 +1,2 @@
+C:\Users\Leander\Projects\hackathon_unity_ar_project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Leander\Projects\hackathon_unity_ar_project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
